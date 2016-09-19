@@ -37,3 +37,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Omniauth
 gem 'omniauth'
 gem 'omniauth-google-oauth2'
+gem 'rack-cors'
